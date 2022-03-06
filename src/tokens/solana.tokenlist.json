@@ -126027,6 +126027,89 @@
         "instagram": "https://www.instagram.com/fleuxlabs/",
         "twitter": "https://twitter.com/fleuxlabs"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5ZExppytfT5qnHnc4MMMwVaeaBtbAUavuUK6EU3jyPBo",
+      "symbol": "MORB",
+      "name": "Metal Orb",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/M-Jawad-Ch/MetalOrbs/Projects/icon.png",
+      "tags": [
+        "utility-token",
+        "community-coin",
+        "NFTs"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/sm6Ts6bF",
+        "twitter": "https://twitter.com/Fdarklord5"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "EnmQX2aeyagdjv5EBsCAKnUwyV1iqmkEPWhqbnNzXJHU",
+      "symbol": "PING",
+      "name": "Pingo",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/zigacmer/crypto/main/finalni%201000x1000.png",
+      "tags": [
+        "social-token",
+        "utility-token",
+        "community-token",
+        "stake-pool-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2TocBpcDms9xWB9oGBo1Pek3bZDhbBtFRNUkSYbQ9N5P",
+      "symbol": "TRS",
+      "name": "TruSwap",
+      "decimals": 0,
+      "logoURI": "https://github.com/Msaqib0786/crypto/blob/main/logo.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "H8iLU94PvXEBk3fAFKveJ8RgNxPejYQetYipWPNs6WXk",
+      "symbol": "MEG",
+      "name": "Megan Coin",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/joshtasman/cSolana/main/meg_logo.jpg",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "9ihuaebHjvKwpWHXcnQoYjvxA4qHX1fy2SuYyCZ7Rokh",
+      "symbol": "RAYS",
+      "name": "SUNSHINE",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Mastervc/Crypto-/main/87-878487_cute-sunshine-clipart-19-cute-sun-clip-art.png",
+      "tags": [
+        "social-token"
+      ]
+    },
+    {
+      "chainId": 101,
+      "address": "2oDVQrNmBrJR71t2wJjq5f7Vz6ohnJheHoLMJEHcEW4J",
+      "symbol": "FPUNK",
+      "name": "Fab Punk Index",
+      "decimals": 2,
+      "logoURI": "https://www.arweave.net/-6iToYivBOpCvcDdFMN1MHLFLlQHKolBIm2dtQvyLbE?ext=png",
+      "tags": [
+        "bridgesplit-fraction",
+        "fab-punks",
+        "fraction-index",
+        "fnft"
+      ],
+      "extensions": {
+        "discord": "https://discord.gg/bridgesplit",
+        "twitter": "https://twitter.com/bridgesplit",
+        "vault": "https://app.bridgesplit.com/fractions/2oDVQrNmBrJR71t2wJjq5f7Vz6ohnJheHoLMJEHcEW4J"
+      }
     }
   ],
   "version": {
